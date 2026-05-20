@@ -9,7 +9,7 @@ const routes = [
     path: '/',
     name: 'Home',
     component: HomeView,
-    meta: { title: 'The Dispatch — All Posts' },
+    meta: { title: 'The 5thBlog — All Posts' },
   },
   {
     path: '/post/:id',
